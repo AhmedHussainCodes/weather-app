@@ -21,15 +21,7 @@ A modern weather prediction app that provides real-time weather updates for any 
 
 ## 🔗 Demo
 
-[🌐 Live Demo](#) <!-- Add your live deployment link here -->
-
-## 📸 Screenshots
-
-| Home Screen          | Forecast Example       | Dark Mode            |
-|----------------------|-----------------------|----------------------|
-| ![](screenshot1.png) | ![](screenshot2.png)  | ![](screenshot3.png) |
-
-<!-- Replace with your actual screenshots -->
+[🌐 Live Demo](#) 
 
 ## 📦 Installation
 
